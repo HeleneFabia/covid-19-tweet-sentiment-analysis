@@ -8,7 +8,7 @@ In this project I use [tweets about COVID-19](https://www.kaggle.com/datatattle/
 
 ### Project Updates
 
-September 2020:
+[09-2020]
 - preprocessing the data using Pandas
 - tokenizing the data using XLMRoBERTaTokenizer
 - building the Dataset using PyTorch
