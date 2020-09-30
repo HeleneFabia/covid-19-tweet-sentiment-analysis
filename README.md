@@ -15,4 +15,4 @@ In this project I use [tweets about COVID-19](https://www.kaggle.com/datatattle/
 - building a first model using `BERTForSequenceClassification`
 - evaluating the first model
 
-Pleasve view my motebook for more details!
+Pleasve view [my notebook](https://github.com/HeleneFabia/covid-19-tweet-sentiment-analysis/blob/master/covid-19-tweet-sa.ipynb) for more details!
