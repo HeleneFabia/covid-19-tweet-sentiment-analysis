@@ -15,4 +15,9 @@ In this project I use [tweets about COVID-19](https://www.kaggle.com/datatattle/
 - building a first model using `BERTForSequenceClassification`
 - evaluating the first model
 
-Pleasve view [my notebook](https://github.com/HeleneFabia/covid-19-tweet-sentiment-analysis/blob/master/covid-19-tweet-sa.ipynb) for more details!
+[10-2020]
+- analyzing and visualizing the data
+
+Pleasve view my notebooks [here](https://github.com/HeleneFabia/covid-19-tweet-sentiment-analysis/blob/master/covid-19-tweet-sa.ipynb) and [here](https://github.com/HeleneFabia/covid-19-tweet-sentiment-analysis/blob/master/covid-19-tweet-eda.ipynb) for more details!
+
+![im](https://github.com/HeleneFabia/covid-19-tweet-sentiment-analysis/blob/master/wordcloud.png)
