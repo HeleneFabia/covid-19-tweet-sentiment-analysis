@@ -9,7 +9,7 @@ In this project I use [tweets about COVID-19](https://www.kaggle.com/datatattle/
 ### Project Updates
 
 [09-2020]
-- analyzing and visualizing the text data
+- analyzing and visualizing statistics about the text data
 - preprocessing the data using Pandas
 - tokenizing the data using `BERTTokenizer`
 - building the Dataset and DataLoader using PyTorch
