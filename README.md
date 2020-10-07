@@ -9,14 +9,12 @@ In this project I use [tweets about COVID-19](https://www.kaggle.com/datatattle/
 ### Project Updates
 
 [09-2020]
+- analyzing and visualizing the text data
 - preprocessing the data using Pandas
 - tokenizing the data using `BERTTokenizer`
 - building the Dataset and DataLoader using PyTorch
 - building a first model using `BERTForSequenceClassification`
 - evaluating the first model
 
-[10-2020]
-- analyzing and visualizing the data
-
-Pleasve view my notebooks [here](https://github.com/HeleneFabia/covid-19-tweet-sentiment-analysis/blob/master/covid-19-tweet-sa.ipynb) and [here](https://github.com/HeleneFabia/covid-19-tweet-sentiment-analysis/blob/master/covid-19-tweet-eda.ipynb) for more details!
+Pleasve view my notebooks containing the [Sentiment Analysis](https://github.com/HeleneFabia/covid-19-tweet-sentiment-analysis/blob/master/covid-19-tweet-sa.ipynb) and [EDA](https://github.com/HeleneFabia/covid-19-tweet-sentiment-analysis/blob/master/covid-19-tweet-eda.ipynb) for more details!
 
