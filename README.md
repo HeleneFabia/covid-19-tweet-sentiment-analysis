@@ -18,8 +18,10 @@ In this project I use [tweets about COVID-19](https://www.kaggle.com/datatattle/
 ### Next steps
 - improving both the BERT and the LSTM model and comparing their results
 
+
+
 Pleasve view my notebooks for more details!
 - [Sentiment Analysis with BERT](https://github.com/HeleneFabia/covid-19-tweet-sentiment-analysis/blob/master/covid-19-tweet-sa.ipynb)
-- [Sentiment Analysis with LSTM model](...)
+- [Sentiment Analysis with LSTM model](https://github.com/HeleneFabia/covid-19-tweet-sentiment-analysis/blob/master/covid-19-tweet-lstm.ipynb)
 - [EDA](https://github.com/HeleneFabia/covid-19-tweet-sentiment-analysis/blob/master/covid-19-tweet-eda.ipynb) 
 
