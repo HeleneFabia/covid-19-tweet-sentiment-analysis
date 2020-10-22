@@ -19,7 +19,7 @@ In this project I use [tweets about COVID-19](https://www.kaggle.com/datatattle/
 - improving the LSTM model and testing the final version
 
 #### Next steps
-- improving the BERT model and compare its results to the LSTM model
+- improving the BERT model and comparing its results to the LSTM model
 
 ***
 
