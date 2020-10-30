@@ -23,14 +23,31 @@ In this project I use [tweets about COVID-19](https://www.kaggle.com/datatattle/
 
 ***
 
-#### Performance of the LSTM model
-- Model architecture:
+#### The LSTM model
+
 <p align="left">
   <img width="500" height="140" src="https://github.com/HeleneFabia/covid-19-tweet-sentiment-analysis/blob/master/images/lstm_architecture.png">
 </p>
 
-- Accuracy of the validation set: 0.9090
-- Accuracy of the test set: 0.8866
+#### Training
+
+After running several experiments, training the model with learning_rate=0.001, dropout=0.3 for 20 epochs yielded the best results on the validation set:
+
+<p align="left">
+  <img width="450" height="300" src="https://github.com/HeleneFabia/covid-19-tweet-sentiment-analysis/blob/master/images/loss_curve.png">
+</p>
+
+<p align="left">
+  <img width="450" height="300" src="https://github.com/HeleneFabia/covid-19-tweet-sentiment-analysis/blob/master/images/acc_curve.png">
+</p>
+
+#### Testing
+
+The model achieved a test accuracy of 0.8866. When having a look at the confusion matrix, it can be seen that there are many False Positives, so negative tweets that were predicted as positive.  
+
+<p align="left">
+  <img width="300" height="300" src="https://github.com/HeleneFabia/covid-19-tweet-sentiment-analysis/blob/master/images/confusion_matrix.png">
+</p>
 
 ***
 
