@@ -10,13 +10,13 @@ In this project I use [tweets about COVID-19](https://www.kaggle.com/datatattle/
 
 #### Project updates
 
-[09-2020]
-- analyzing and visualizing statistics about the text data
-- building a baseline model using `BERTForSequenceClassification`
-
 [10-2020]
 - building a baseline model using a LSTM network
 - improving the LSTM model and testing the final version
+
+[09-2020]
+- analyzing and visualizing statistics about the text data
+- building a baseline model using `BERTForSequenceClassification`
 
 #### Next steps
 - improving the BERT model and comparing its results to the LSTM model
