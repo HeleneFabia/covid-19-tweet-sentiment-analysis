@@ -8,7 +8,7 @@ In this project I use [tweets about COVID-19](https://www.kaggle.com/datatattle/
 
 ***
 
-#### Project updates
+### Project updates
 
 [10-2020]
 - building a baseline model using a LSTM network
@@ -23,15 +23,17 @@ In this project I use [tweets about COVID-19](https://www.kaggle.com/datatattle/
 
 ***
 
-#### The LSTM model
+### The LSTM model
+
+#### Training
+
+After running several experiments, training the model (see below) with learning_rate=0.001, dropout=0.3 for 20 epochs yielded the best results on the validation set.
 
 <p align="left">
   <img width="500" height="140" src="https://github.com/HeleneFabia/covid-19-tweet-sentiment-analysis/blob/master/images/lstm_architecture.png">
 </p>
 
-#### Training
-
-After running several experiments, training the model with learning_rate=0.001, dropout=0.3 for 20 epochs yielded the best results on the validation set:
+The learning curves of the loss (Binary Cross-Entropy Loss) and accuracy can be seen in the following plots:
 
 <p align="left">
   <img width="450" height="300" src="https://github.com/HeleneFabia/covid-19-tweet-sentiment-analysis/blob/master/images/loss_curve.png">
