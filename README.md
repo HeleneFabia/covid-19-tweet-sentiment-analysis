@@ -36,11 +36,11 @@ After running several experiments, training the model (see below) with learning_
 The learning curves of the loss (Binary Cross-Entropy Loss) and accuracy can be seen in the following plots:
 
 <p align="left">
-  <img width="450" height="300" src="https://github.com/HeleneFabia/covid-19-tweet-sentiment-analysis/blob/master/images/loss_curve.png">
+  <img width="550" height="400" src="https://github.com/HeleneFabia/covid-19-tweet-sentiment-analysis/blob/master/images/loss_curve.png">
 </p>
 
 <p align="left">
-  <img width="450" height="300" src="https://github.com/HeleneFabia/covid-19-tweet-sentiment-analysis/blob/master/images/acc_curve.png">
+  <img width="550" height="400" src="https://github.com/HeleneFabia/covid-19-tweet-sentiment-analysis/blob/master/images/acc_curve.png">
 </p>
 
 #### Testing
