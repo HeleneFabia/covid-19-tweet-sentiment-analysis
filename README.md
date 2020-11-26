@@ -3,7 +3,7 @@
 In this project I use [tweets about COVID-19](https://www.kaggle.com/datatattle/covid-19-nlp-text-classification) in order to perform Sentiment Analysis on them. The main goal of this project to become more familiar and dive deeper into different NLP models, such as LSTMs and transformer models (e.g. BERT).
 
 <p align="center">
-  <img width="150" height="120" src="https://cdn.pixabay.com/photo/2014/04/03/11/53/twitter-312464_960_720.png">
+  <img width="250" height="250" src="https://github.com/HeleneFabia/covid-19-tweet-sentiment-analysis/blob/master/images/twitter-3000965_960_720.png">
 </p>
 
 ***
