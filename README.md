@@ -39,5 +39,6 @@ The model achieved a test accuracy of 0.8866. When having a look at the confusio
 
 Please view my notebooks for more details!
 - [Sentiment Analysis with LSTM model](https://github.com/HeleneFabia/covid-19-tweet-sentiment-analysis/blob/master/covid_19_tweet_lstm.ipynb)
+- [Sentiment Analysis with BERT model](https://github.com/HeleneFabia/covid-19-tweet-sentiment-analysis/blob/master/covid-19-tweet-bert.ipynb)
 - [EDA](https://github.com/HeleneFabia/covid-19-tweet-sentiment-analysis/blob/master/covid-19-tweet-eda.ipynb) 
 
